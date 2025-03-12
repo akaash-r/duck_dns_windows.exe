@@ -19,16 +19,18 @@ DuckDNS Updater for Windows is a Python-based GUI application that automatically
 
 1. **Clone** the repository:
   
-   ```bash "git clone https://github.com/akaash-r/duck_dns_windows.exe.git"```
-   ```cd "duck_dns_windows.exe"```
+   ```git clone https://github.com/akaash-r/duck_dns_windows.exe.git```
+2. Navigate to repository:
+
+   ```cd "duck_dns_windows.exe```
 
 ### Install dependencies:
 
-```python "pip install requests"```
+```pip install requests```
 
 ### Run the application:
 
-```python "python main_exe.py"```
+```python main_exe.py```
 
 ## Usage
 
